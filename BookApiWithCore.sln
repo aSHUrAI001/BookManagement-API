@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookApiWithCore", "BookApiWithCore\BookApiWithCore.csproj", "{CEBEEE07-6C80-4A07-B86C-90C73817DFD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBEEE07-6C80-4A07-B86C-90C73817DFD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBEEE07-6C80-4A07-B86C-90C73817DFD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBEEE07-6C80-4A07-B86C-90C73817DFD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBEEE07-6C80-4A07-B86C-90C73817DFD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201731FD-2B3E-4C57-BF80-9B118828044F}
+	EndGlobalSection
+EndGlobal
